@@ -13,7 +13,6 @@
 <!-- Sección de Contacto -->
 <h3 style="font-family: Arial, sans-serif; text-align: center; color: #333;">Contacto</h3>
 <p style="font-family: Arial, sans-serif; text-align: center; color: #666;">
-    📧 <a href="mailto:battaglinoignacio@gmail.com" style="color: #0073e6; text-decoration: none;">tuemail@example.com</a> <br>
-    💼 <a href="https://www.linkedin.com/in/tu-linkedin" style="color: #0073e6; text-decoration: none;">LinkedIn</a> <br>
-    📁 <a href="https://github.com/tu-usuario" style="color: #0073e6; text-decoration: none;">GitHub</a>
+    📧 <a href="mailto:battaglinoignacio@gmail.com" style="color: #0073e6; text-decoration: none;">battaglinoignacio@gmail.com</a> <br>
+    
 </p>
