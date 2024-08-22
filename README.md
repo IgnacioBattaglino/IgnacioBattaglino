@@ -16,3 +16,5 @@
     📧 <a href="mailto:battaglinoignacio@gmail.com" style="color: #0073e6; text-decoration: none;">battaglinoignacio@gmail.com</a> <br>
     
 </p>
+
+![IgnacioBattaglino's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioBattaglino&theme=dark&show_icons=true&hide_border=true&layout=compact)
