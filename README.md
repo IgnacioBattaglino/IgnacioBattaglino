@@ -6,7 +6,7 @@
 
 <!-- Introducción Personal -->
 <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: center; color: #34495e; line-height: 1.6;">
-    Actualmente estoy en el segundo año de la Licenciatura en Sistemas, tengo conocimientos medios en Java, Pascal y Python. Mientras sigo aprendiendo estos lenguajes, durante este cuatrimestre me sumerjo en SQL.
+    Actualmente estoy en el tercer año de la Licenciatura en Sistemas, tengo conocimientos medios en Pascal, Java, Python, SQL, C# y DART. 
 </p>
 
 
